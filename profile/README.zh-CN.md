@@ -1,5 +1,5 @@
 <p align="right"><a href="https://github.com/RMinte-AI/.github/blob/main/profile/README.md">English</a> · 简体中文</p>
-<p><img src="https://raw.githubusercontent.com/RMinte-AI/.github/main/profile/assets/banner.png" alt="RMinte AI — AI that works. Right where you are. RM-01 product photograph." width="1600"></p>
+<p><img src="https://raw.githubusercontent.com/RMinte-AI/.github/06b4b2a/profile/assets/banner.png" alt="RMinte AI — AI that works. Right where you are. RM-01 product photograph." width="1600"></p>
 <h2>从硬件到应用，让 AI 在本地工作。</h2>
 <p>泛灵人工智能（RMinte AI）专注于 AI 硬件与推理平台的协同研发。我们将计算设备、推理引擎与系统软件整合为面向实际场景的本地 AI 平台，让模型与应用更容易部署、管理，并融入日常工作。</p>
 <h2>我们在做什么</h2>

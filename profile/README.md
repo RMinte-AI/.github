@@ -1,5 +1,5 @@
 <p align="right">English · <a href="https://github.com/RMinte-AI/.github/blob/main/profile/README.zh-CN.md">简体中文</a></p>
-<p><img src="https://raw.githubusercontent.com/RMinte-AI/.github/main/profile/assets/banner.png" alt="RMinte AI — AI that works. Right where you are. RM-01 product photograph." width="1600"></p>
+<p><img src="https://raw.githubusercontent.com/RMinte-AI/.github/06b4b2a/profile/assets/banner.png" alt="RMinte AI — AI that works. Right where you are. RM-01 product photograph." width="1600"></p>
 <h2>Local AI, from hardware to applications.</h2>
 <p>RMinte AI develops AI hardware and inference platforms. We bring computing devices, inference engines, and system software together to make local AI easier to deploy, manage, and use — from running models to putting applications to work.</p>
 <h2>What we build</h2>
